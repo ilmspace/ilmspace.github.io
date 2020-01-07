@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg262"
+   version="1.1"
+   height="200"
+   width="200">
+  <metadata
+     id="metadata268">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs266" />
+  <g
+     id="g216"
+     class="layer">
+    <title
+       id="title206">Lines</title>
+    <path
+       id="path208"
+       stroke-width="10"
+       stroke="#000000"
+       fill="none"
+       d=" m10,10 l0,100 q0,75,75,75 l50,0" />
+    <path
+       id="path210"
+       stroke-width="10"
+       stroke="#000000"
+       fill="none"
+       d=" m45,70 l-15,0 l0,25 q0,50,50,50 l80,0" />
+    <path
+       id="path212"
+       stroke-width="10"
+       stroke="#000000"
+       fill="none"
+       d=" m55,70 l15,0 l0,40 q0,55,55,55 l60,0" />
+    <path
+       id="path214"
+       stroke-width="10"
+       stroke="#000000"
+       fill="none"
+       d=" m90,10 l0,85 q0,30,30,30 l100,0" />
+  </g>
+</svg>
